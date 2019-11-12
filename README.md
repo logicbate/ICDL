@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img src="images/screenshot.jpg" alt="ICDL CONNECT ACCUEIL">
+    <img src="/images/Screenshot.jpg" alt="ICDL CONNECT ACCUEIL">
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -18,4 +18,4 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[product-screenshot]: images/screenshot.jpg
+[product-screenshot]: images/Screenshot.jpg
