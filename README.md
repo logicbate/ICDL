@@ -15,12 +15,14 @@
 
 <br />
 <br />
-## Presentation de la plateforme
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## CONTACTS
+## Contacts
 
 Email : rmannkoko@gmail.com
+<br />
 Tel : 89 50 60 73
