@@ -25,4 +25,4 @@
 
 Email : rmannkoko@gmail.com
 <br />
-Tel : 89 50 60 73 | HERMINE LUC KOKO
+Tel : 89 50 60 73 
