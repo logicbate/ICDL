@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img src="images/screenshot.jpg.png" alt="ICDL CONNECT LOGO">
+    <img src="images/screenshot.jpg" alt="ICDL CONNECT ACCUEIL">
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
