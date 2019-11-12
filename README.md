@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/icdl_logo.png" alt="ICDL CONNECT LOGO" width="100" height="80">
+    <img src="images/icdl_logo.png" alt="ICDL CONNECT LOGO">
 
   <h3 align="center">ICDL CONNECT</h3>
 
