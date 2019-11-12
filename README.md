@@ -13,6 +13,9 @@
     <img src="/images/Screenshot.jpg" alt="ICDL CONNECT ACCUEIL">
 </p>
 
+<br />
+<br />
+## Presentation de la plateforme
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
